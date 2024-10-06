@@ -4,6 +4,9 @@
 ## Project Overview
 This project aims to forecast electricity prices by analyzing historical data on energy generation, consumption, and weather conditions. The key approach involves preprocessing the data, performing dimensionality reduction, and leveraging advanced deep learning models like LSTM (Long Short-Term Memory) and Stacked LSTM to predict future electricity prices.
 
+![newplot (6)](https://github.com/user-attachments/assets/4e1768b2-33e3-4306-8923-5a7e9872b695)
+
+
 ## Key Objectives:
 Preprocess energy and weather data by handling categorical features and scaling numerical features.
 
